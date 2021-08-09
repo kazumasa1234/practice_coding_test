@@ -1,0 +1,23 @@
+{
+  "name": "gulp_sample_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0",
+    "gulp-webserver": "^0.9.1",
+    "node-sass": "^6.0.1",
+    "npm-run-all": "^4.1.5",
+    "sass": "^1.35.2",
+    "typescript": "^4.3.5",
+    "watch": "^0.11.0",
+    "webpack": "^5.45.1"
+  }
+}
